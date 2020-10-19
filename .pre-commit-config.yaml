@@ -1,0 +1,7 @@
+---
+- id: alex
+  name: "Alex writing reviewer"
+  entry: alex
+  language: "node"
+  description: "Catch insensitive, inconsiderate writing"
+  always_run: true

@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"alex": "^9.0.1"
+	},
+	"bin": "alex"
+}
