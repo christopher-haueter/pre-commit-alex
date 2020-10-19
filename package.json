@@ -1,6 +1,12 @@
 {
-	"dependencies": {
-		"alex": "^9.0.1"
-	},
-	"bin": "alex"
+  "name": "pre-commit-alex",
+  "version": "0.1.1",
+  "dependencies": {
+    "alex": "^9.0.1",
+    "standard-version": "^9.0.0"
+  },
+  "bin": "alex",
+  "scripts": {
+    "version": "npx standard-version"
+  }
 }
