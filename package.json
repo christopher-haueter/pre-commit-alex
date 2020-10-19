@@ -5,7 +5,6 @@
     "alex": "^9.0.1",
     "standard-version": "^9.0.0"
   },
-  "bin": "alex",
   "scripts": {
     "version": "npx standard-version"
   }
